@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254.912 1219.202">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d3142;
+        stroke: #2d3142;
+        stroke-width: 25px;
+      }
+
+      .cls-2 {
+        fill: #3581b8;
+        stroke: #3581b8;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 15px;
+      }
+
+      .cls-3 {
+        fill: #ef8354;
+        stroke: #ef8354;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_2_1" data-name="Symbol 2 – 1" transform="translate(-924.29 -173.383)">
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="matrix(0.951, 0.309, -0.309, 0.951, 1258.994, 173.383)">
+      <ellipse class="cls-4" cx="483.782" cy="483.782" rx="483.782" ry="483.782"/>
+      <ellipse class="cls-5" cx="483.782" cy="483.782" rx="471.282" ry="471.282"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-2" transform="matrix(0.951, 0.309, -0.309, 0.951, 1317.981, 271.625)">
+      <rect class="cls-4" width="288.46" height="288.46"/>
+      <rect class="cls-5" x="7.5" y="7.5" width="273.46" height="273.46"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" class="cls-3" d="M0,500.224,289.439,0l289.3,500.224Z" transform="matrix(0.53, 0.848, -0.848, 0.53, 1361.756, 539.859)"/>
+  </g>
+</svg>
